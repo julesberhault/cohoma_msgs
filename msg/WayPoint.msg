@@ -1,0 +1,3 @@
+geographic_msgs/GeoPoint position
+bool trap_clearance
+bool reached
