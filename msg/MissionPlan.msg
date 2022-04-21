@@ -1,4 +1,4 @@
 Header header
 string mission_id
 int16 current_seq
-cohoma_msgs/WayPoint[] waypoints
+navigation_msgs/WayPoint[] waypoints
