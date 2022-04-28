@@ -1,0 +1,5 @@
+geographic_msgs/GeoPoint[] area
+int16 starting_index
+---
+bool success
+navigation_msgs/WayPoint[] waypoints
