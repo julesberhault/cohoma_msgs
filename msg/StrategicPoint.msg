@@ -9,4 +9,5 @@ string id
 geographic_msgs/GeoPoint position
 uint8 type
 uint8 status
+float32 radius
 string message
