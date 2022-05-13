@@ -22,6 +22,7 @@ add_service_files(
   FILES
   PullMission.srv
   PushMission.srv
+  CoverageArea.srv
 )
 
 generate_messages(

@@ -1,9 +1,10 @@
-uint8 HYBRID=0
-uint8 TERRESTRIAL=1
-uint8 AERIAL=2
-uint8 PRIMED=0
-uint8 CAN_BE_DEFUSED=1
-uint8 DEFUSED=2
+uint8 UNKNOWN=0
+uint8 HYBRID=1
+uint8 TERRESTRIAL=2
+uint8 AERIAL=3
+uint8 DEFUSED=0
+uint8 ACTIVE=1
+uint8 UNALTERABLE=2
 string id
 geographic_msgs/GeoPoint position
 uint8 type
